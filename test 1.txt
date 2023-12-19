@@ -1,6 +1,6 @@
 this is a test of git examples
 
-1
+1a
 
 2
 
