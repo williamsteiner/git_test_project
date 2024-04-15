@@ -137,3 +137,19 @@ git push origin --tags
 git checkout develop-bill && git pull 
 
 ====================
+
+---------- after local git init - 
+To add a new remote, use the git remote add command on the terminal, in the directory your repository is stored at.
+
+The git remote add command takes two arguments:
+
+A remote name, for example, origin
+A remote URL, for example, https://github.com/OWNER/REPOSITORY.git
+For example:
+
+$ git remote add origin https://github.com/OWNER/REPOSITORY.git
+# Set a new remote
+
+$ git remote -v
+
+====================
