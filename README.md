@@ -1,5 +1,5 @@
 
-Develop branch changed me
+Develop-local branch changed me
 
 ==================== GIT Examples ====================
 example 1. develop-bill changes locally
@@ -20,7 +20,7 @@ git merge develop-bill
 git push
 
 -- master
-git checkout master && git pull
+git checkout main && git pull
 git merge develop
 git push
 
