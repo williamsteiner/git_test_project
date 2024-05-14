@@ -75,8 +75,7 @@ access_token = get_access_token(api_url)
 # get data
 filter = "?$top=10000&$skip=0&$inlinecount=allpages&$filter=year(CREATE_DATE) ge " + str(previous_year)
 # Initial URL for fetching the first 1000 rows 
-url = "https://owi-production-dmodata-srv.cfapps.us10.hana.ondemand.com/v2/odata/v4/dmo/Pricerequest" + filter
-#data_results = get_data(url, access_token)
+url = "https://owi-production-dmodata-srv.cfapps.us10.hana.ondemand.com/v2/odata/v4/dmo/Pricerequest" + filter 
 
 # Fetch all rows
 all_rows = fetch_all_rows(url, access_token)
