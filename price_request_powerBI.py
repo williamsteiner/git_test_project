@@ -53,7 +53,6 @@ def fetch_all_rows(url, access_token):
     }
  
     while url: 
-        #data = get_data(url, access_token)
         response = requests.request("GET", url, headers=headers, data=payload)
         if response.status_code != 200:
             print(f"Failed to fetch data from {url}. Status code: {response.status_code}")
