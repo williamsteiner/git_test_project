@@ -12,7 +12,9 @@ headers = {
   'Cookie': 'X-Uaa-Csrf=YtAEU3PcNyDxDQZysAN4GZ'
 }
 
-  
+ 
+#def main():
+
 
 def get_access_token(api_url):
     try:
@@ -39,7 +41,36 @@ def get_access_token(api_url):
     except Exception as e:
         print("An error occurred:", e)
         return None
- 
+
+
+def get_data(url, access_token):
+    try:
+      payload = {}
+      headers = {
+        'Authorization': 'Bearer ' + access_token
+      }
+
+      response = requests.request("GET", url, headers=headers, data=payload)
+              # Check if the request was successful (status code 200)
+      if response.status_code == 200:
+          # Convert the response to JSON format
+          json_data = response.json()
+
+          # Extract the value associated with the key  
+          data_d = json_data.get('d')
+          data_results = data_d.get('results')
+
+          if data_results:
+              return data_results
+          else:
+              print("No data found in the JSON response.")
+              return None
+      else:
+          print("Failed to retrieve data. Status code:", response.status_code)
+          return None
+    #print(response.text)
+
+
     except Exception as e:
         print("An error occurred:", e)
         return None
@@ -66,7 +97,12 @@ def fetch_all_rows(url, access_token):
         url = data_d.get('__next')
     return all_rows
 
- 
+
+
+
+#if __name__ == "__main__":
+#    main()
+
 # Example API URL
 api_url = 'https://owi.authentication.us10.hana.ondemand.com/oauth/token'
 
@@ -74,8 +110,11 @@ api_url = 'https://owi.authentication.us10.hana.ondemand.com/oauth/token'
 access_token = get_access_token(api_url) 
 
 # get data
-filter = "?$top=10000&$skip=0&$inlinecount=allpages&$filter=year(CREATE_DATE) ge " + str(previous_year)
-# Initial URL for fetching the first 1000 rows 
+filter = "?$top=50000&$skip=0&$inlinecount=allpages&$filter=year(CREATE_DATE) ge " + str(previous_year)
+
+# Initial URL for fetching the first 1000 rows
+#initial_url = "https://example.com/v2/odata/v4/dmo/Pricerequest?$top=1000"
+
 url = "https://owi-production-dmodata-srv.cfapps.us10.hana.ondemand.com/v2/odata/v4/dmo/Pricerequest" + filter
 #data_results = get_data(url, access_token)
 
@@ -85,5 +124,6 @@ all_rows = fetch_all_rows(url, access_token)
 # Print the total number of rows fetched
 print("Total number of rows fetched:", len(all_rows))
 
-df = pd.DataFrame(all_rows)   
+
+df = pd.DataFrame(all_rows)  # ,columns=['Name','Age']
 print (df)    
