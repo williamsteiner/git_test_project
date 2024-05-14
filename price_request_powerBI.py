@@ -3,6 +3,7 @@ import requests
 import datetime
 
 current_year = datetime.datetime.now().year
+previous_year = current_year -1
 
 payload = 'grant_type=password&username=akothari%40owi.com&password=Arpit%40123'
 headers = {
@@ -93,7 +94,7 @@ def fetch_all_rows(url, access_token):
         data_d = data.get('d')
         rows = data_d.get('results')
         all_rows.extend(rows)
-        url = data.get('__next')
+        url = data_d.get('__next')
     return all_rows
 
 
@@ -109,7 +110,7 @@ api_url = 'https://owi.authentication.us10.hana.ondemand.com/oauth/token'
 access_token = get_access_token(api_url) 
 
 # get data
-filter = "?$filter=year(CREATE_DATE) eq " + str(current_year)
+filter = "?$top=50000&$skip=0&$inlinecount=allpages&$filter=year(CREATE_DATE) ge " + str(previous_year)
 
 # Initial URL for fetching the first 1000 rows
 #initial_url = "https://example.com/v2/odata/v4/dmo/Pricerequest?$top=1000"
