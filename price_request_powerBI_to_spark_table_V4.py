@@ -111,6 +111,7 @@ df_spark = spark.createDataFrame(data, schema)
 # Save PySpark DataFrame as a table with the desired name below
 df_spark.write.mode("overwrite").saveAsTable("BillTest_PR_V4")
 
+print("spark table write process COMPLETED")
+
 # Stop SparkSession
 spark.stop()
-print("spark table write process COMPLETED")
