@@ -5,14 +5,24 @@ import datetime
 current_year = datetime.datetime.now().year
 previous_year = current_year -1
 
- 
+'''payload = 'grant_type=password&username=akothari%40owi.com&password=Arpit%40123'
+headers = {
+  'Content-Type': 'application/x-www-form-urlencoded',
+  'Authorization': 'Basic c2ItZG1vZGF0YS1vd2ktUHJvZHVjdGlvbiF0MTEyNDM6YWFiZGU5NTMtMTQ5MS00YTlhLThhY2MtYWFjOTlkMDA5ZmJlJHNnTHJzU0FWWnRsQ2xKMks4ckRmUXRfS1Fsdmxqc3UzWWxacVZyVUJYNzg9',
+  'Cookie': 'X-Uaa-Csrf=YtAEU3PcNyDxDQZysAN4GZ'
+}'''
+
 # Note: to get the hashcode below run the postman script and click the </> code icon to get hashcode
 payload = 'grant_type=client_credentials'
 headers = {
   'Content-Type': 'application/x-www-form-urlencoded',
   'Authorization': 'Basic c2ItZG1vZGF0YS1vd2ktUHJvZHVjdGlvbiF0MTEyNDM6YWFiZGU5NTMtMTQ5MS00YTlhLThhY2MtYWFjOTlkMDA5ZmJlJHNnTHJzU0FWWnRsQ2xKMks4ckRmUXRfS1Fsdmxqc3UzWWxacVZyVUJYNzg9'
 }
- 
+
+# Base API URL
+api_url = 'https://owi.authentication.us10.hana.ondemand.com/oauth/token'
+
+
 def get_access_token(api_url):
     try:
         # Make a GET request to the API endpoint 
@@ -57,10 +67,7 @@ def fetch_all_rows(url, access_token):
         all_rows.extend(rows)
         url = data_d.get('__next')
     return all_rows
-
  
-# Base API URL
-api_url = 'https://owi.authentication.us10.hana.ondemand.com/oauth/token'
 
 # Call the get_access_token function to retrieve the access token
 access_token = get_access_token(api_url) 
@@ -78,3 +85,39 @@ print("Total number of rows fetched:", len(all_rows))
 
 df = pd.DataFrame(all_rows)   
 print (df)    
+
+
+# ---------------------------------------------------------- #
+print("start spark table write process")
+from pyspark.sql import SparkSession        # pip install pyspark
+from pyspark.sql.types import StructType, StructField, StringType, LongType
+
+# Initialize SparkSession
+spark = SparkSession.builder \
+    .appName("CreateDataFrame") \
+    .config("spark.sql.warehouse.dir", "/user/hive/warehouse") \
+    .enableHiveSupport() \
+    .getOrCreate()
+
+# Assuming df is your pandas DataFrame created from the OData service call
+
+# Convert pandas DataFrame rows to list of tuples
+data = [tuple(row) for row in df.to_numpy()]
+
+# Get the schema from the first row of data
+first_row = df.iloc[0]
+schema = StructType([
+    StructField(col, 
+                LongType() if isinstance(first_row[i], int) else StringType(), 
+                True) 
+    for i, col in enumerate(df.columns)
+])
+
+# Create PySpark DataFrame
+df_spark = spark.createDataFrame(data, schema)
+
+# Save PySpark DataFrame as a table with the desired name "BillTest_PR"
+df_spark.write.mode("overwrite").saveAsTable("BillTest_PR")
+
+# Stop SparkSession
+spark.stop()

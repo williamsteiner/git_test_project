@@ -2,11 +2,18 @@ import requests
 
 url = "https://owi.authentication.us10.hana.ondemand.com/oauth/token"
 
-payload = 'grant_type=password&username=akothari%40owi.com&password=Arpit%40123'
+'''payload = 'grant_type=password&username=akothari%40owi.com&password=Arpit%40123'
 headers = {
   'Content-Type': 'application/x-www-form-urlencoded',
   'Authorization': 'Basic c2ItZG1vZGF0YS1vd2ktUHJvZHVjdGlvbiF0MTEyNDM6YWFiZGU5NTMtMTQ5MS00YTlhLThhY2MtYWFjOTlkMDA5ZmJlJHNnTHJzU0FWWnRsQ2xKMks4ckRmUXRfS1Fsdmxqc3UzWWxacVZyVUJYNzg9',
   'Cookie': 'X-Uaa-Csrf=YtAEU3PcNyDxDQZysAN4GZ'
+}'''
+
+# Note: to get the hashcode below run the postman script and click the </> code icon to get hashcode
+payload = 'grant_type=client_credentials'
+headers = {
+  'Content-Type': 'application/x-www-form-urlencoded',
+  'Authorization': 'Basic c2ItZG1vZGF0YS1vd2ktUHJvZHVjdGlvbiF0MTEyNDM6YWFiZGU5NTMtMTQ5MS00YTlhLThhY2MtYWFjOTlkMDA5ZmJlJHNnTHJzU0FWWnRsQ2xKMks4ckRmUXRfS1Fsdmxqc3UzWWxacVZyVUJYNzg9'
 }
 
 access_token = False
