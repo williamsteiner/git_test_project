@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Thu May 16 13:26:50 CDT 2024:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018f-82a8-29e5-00000178e280 
+Thu May 16 14:54:59 CDT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018f-82f8-df02-0000014ea778 
 on database directory C:\Users\bsteiner\OneDrive - Old World Industries\Documents\Git Repos\Test_Git\metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@33909752 
 Loaded from file:/C:/Users/bsteiner/AppData/Local/Programs/Python/Python312/Lib/site-packages/pyspark/jars/derby-10.14.2.0.jar
 java.vendor=Oracle Corporation
