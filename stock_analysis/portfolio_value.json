@@ -1,757 +1,759 @@
 {
-    "PTY": {
-        "2020": {
-            "1": {
-                "Dividend Income": 0.13,
-                "Stock Value": 12.5775
+    "My Portfolio": {
+        "PTY": {
+            "2020": {
+                "1": {
+                    "Dividend": 0.13,
+                    "Stock Price": 12.577540942600795
+                },
+                "2": {
+                    "Dividend": 0.13,
+                    "Stock Price": 12.511583077280145
+                },
+                "3": {
+                    "Dividend": 0.13,
+                    "Stock Price": 9.497751517729325
+                },
+                "4": {
+                    "Dividend": 0.13,
+                    "Stock Price": 8.966304642813546
+                },
+                "5": {
+                    "Dividend": 0.13,
+                    "Stock Price": 9.643408727645873
+                },
+                "6": {
+                    "Dividend": 0.13,
+                    "Stock Price": 10.520112081007523
+                },
+                "7": {
+                    "Dividend": 0.13,
+                    "Stock Price": 10.60601212761619
+                },
+                "8": {
+                    "Dividend": 0.13,
+                    "Stock Price": 10.930207343328567
+                },
+                "9": {
+                    "Dividend": 0.13,
+                    "Stock Price": 11.172965503874279
+                },
+                "10": {
+                    "Dividend": 0.13,
+                    "Stock Price": 11.451901912689209
+                },
+                "11": {
+                    "Dividend": 0.13,
+                    "Stock Price": 11.906722021102905
+                },
+                "12": {
+                    "Dividend": 0.13,
+                    "Stock Price": 12.614972244609486
+                }
             },
-            "2": {
-                "Dividend Income": 0.13,
-                "Stock Value": 12.5116
+            "2021": {
+                "1": {
+                    "Dividend": 0.13,
+                    "Stock Price": 12.805470717580695
+                },
+                "2": {
+                    "Dividend": 0.13,
+                    "Stock Price": 12.9233701103612
+                },
+                "3": {
+                    "Dividend": 0.13,
+                    "Stock Price": 13.049247161201809
+                },
+                "4": {
+                    "Dividend": 0.13,
+                    "Stock Price": 13.664055460975284
+                },
+                "5": {
+                    "Dividend": 0.13,
+                    "Stock Price": 14.159770298004151
+                },
+                "6": {
+                    "Dividend": 0.13,
+                    "Stock Price": 14.727139082821934
+                },
+                "7": {
+                    "Dividend": 0.13,
+                    "Stock Price": 15.037842932201567
+                },
+                "8": {
+                    "Dividend": 0.13,
+                    "Stock Price": 15.667173125527121
+                },
+                "9": {
+                    "Dividend": 0.119,
+                    "Stock Price": 14.08751119886126
+                },
+                "10": {
+                    "Dividend": 0.119,
+                    "Stock Price": 13.813362711951847
+                },
+                "11": {
+                    "Dividend": 0.119,
+                    "Stock Price": 13.940853255135673
+                },
+                "12": {
+                    "Dividend": 0.119,
+                    "Stock Price": 13.041592251170766
+                }
             },
-            "3": {
-                "Dividend Income": 0.13,
-                "Stock Value": 9.4978
+            "2022": {
+                "1": {
+                    "Dividend": 0.119,
+                    "Stock Price": 12.498227882385255
+                },
+                "2": {
+                    "Dividend": 0.119,
+                    "Stock Price": 11.984162932948061
+                },
+                "3": {
+                    "Dividend": 0.119,
+                    "Stock Price": 11.596313393634299
+                },
+                "4": {
+                    "Dividend": 0.119,
+                    "Stock Price": 11.848458623886108
+                },
+                "5": {
+                    "Dividend": 0.119,
+                    "Stock Price": 11.363729931059337
+                },
+                "6": {
+                    "Dividend": 0.119,
+                    "Stock Price": 11.08860833304269
+                },
+                "7": {
+                    "Dividend": 0.119,
+                    "Stock Price": 10.374450635910033
+                },
+                "8": {
+                    "Dividend": 0.119,
+                    "Stock Price": 11.494903066883916
+                },
+                "9": {
+                    "Dividend": 0.119,
+                    "Stock Price": 10.634654499235607
+                },
+                "10": {
+                    "Dividend": 0.119,
+                    "Stock Price": 10.02611001332601
+                },
+                "11": {
+                    "Dividend": 0.119,
+                    "Stock Price": 10.632943743751163
+                },
+                "12": {
+                    "Dividend": 0.269,
+                    "Stock Price": 10.947834832327706
+                }
             },
-            "4": {
-                "Dividend Income": 0.13,
-                "Stock Value": 8.9663
+            "2023": {
+                "1": {
+                    "Dividend": 0.119,
+                    "Stock Price": 11.448599052429199
+                },
+                "2": {
+                    "Dividend": 0.119,
+                    "Stock Price": 12.080903404637388
+                },
+                "3": {
+                    "Dividend": 0.119,
+                    "Stock Price": 11.221695070681365
+                },
+                "4": {
+                    "Dividend": 0.119,
+                    "Stock Price": 11.421469136288291
+                },
+                "5": {
+                    "Dividend": 0.119,
+                    "Stock Price": 11.461936300451105
+                },
+                "6": {
+                    "Dividend": 0.119,
+                    "Stock Price": 12.126239776611328
+                },
+                "7": {
+                    "Dividend": 0.119,
+                    "Stock Price": 13.07817063331604
+                },
+                "8": {
+                    "Dividend": 0.119,
+                    "Stock Price": 13.148896880771803
+                },
+                "9": {
+                    "Dividend": 0.119,
+                    "Stock Price": 12.868331336975098
+                },
+                "10": {
+                    "Dividend": 0.119,
+                    "Stock Price": 11.716158780184658
+                },
+                "11": {
+                    "Dividend": 0.119,
+                    "Stock Price": 12.800392060052781
+                },
+                "12": {
+                    "Dividend": 0.119,
+                    "Stock Price": 12.91375799179077
+                }
             },
-            "5": {
-                "Dividend Income": 0.13,
-                "Stock Value": 9.6434
-            },
-            "6": {
-                "Dividend Income": 0.13,
-                "Stock Value": 10.5201
-            },
-            "7": {
-                "Dividend Income": 0.13,
-                "Stock Value": 10.606
-            },
-            "8": {
-                "Dividend Income": 0.13,
-                "Stock Value": 10.9302
-            },
-            "9": {
-                "Dividend Income": 0.13,
-                "Stock Value": 11.173
-            },
-            "10": {
-                "Dividend Income": 0.13,
-                "Stock Value": 11.4519
-            },
-            "11": {
-                "Dividend Income": 0.13,
-                "Stock Value": 11.9067
-            },
-            "12": {
-                "Dividend Income": 0.13,
-                "Stock Value": 12.615
+            "2024": {
+                "1": {
+                    "Dividend": 0.0,
+                    "Stock Price": 5237.297031220935
+                },
+                "2": {
+                    "Dividend": 0.0,
+                    "Stock Price": 247.40854110717774
+                },
+                "3": {
+                    "Dividend": 0.911,
+                    "Stock Price": 255.58708724975585
+                },
+                "4": {
+                    "Dividend": 0.0,
+                    "Stock Price": 252.5954555164684
+                },
+                "5": {
+                    "Dividend": 0.0,
+                    "Stock Price": 258.71454481645065
+                },
+                "6": {
+                    "Dividend": 0.0,
+                    "Stock Price": 261.31732177734375
+                },
+                "7": {
+                    "Dividend": 0.0,
+                    "Stock Price": 0
+                },
+                "8": {
+                    "Dividend": 0.0,
+                    "Stock Price": 0
+                },
+                "9": {
+                    "Dividend": 0.0,
+                    "Stock Price": 0
+                },
+                "10": {
+                    "Dividend": 0.0,
+                    "Stock Price": 0
+                },
+                "11": {
+                    "Dividend": 0.0,
+                    "Stock Price": 0
+                },
+                "12": {
+                    "Dividend": 0.0,
+                    "Stock Price": 0
+                }
             }
         },
-        "2021": {
-            "1": {
-                "Dividend Income": 0.13,
-                "Stock Value": 12.8055
+        "VTI": {
+            "2020": {
+                "1": {
+                    "Dividend": 0.0,
+                    "Stock Price": 155.56498064313615
+                },
+                "2": {
+                    "Dividend": 0.0,
+                    "Stock Price": 155.8618830630654
+                },
+                "3": {
+                    "Dividend": 0.614,
+                    "Stock Price": 124.8604410344904
+                },
+                "4": {
+                    "Dividend": 0.0,
+                    "Stock Price": 129.53880673363096
+                },
+                "5": {
+                    "Dividend": 0.0,
+                    "Stock Price": 138.19750366210937
+                },
+                "6": {
+                    "Dividend": 0.7,
+                    "Stock Price": 148.0401014848189
+                },
+                "7": {
+                    "Dividend": 0.0,
+                    "Stock Price": 153.28703793612394
+                },
+                "8": {
+                    "Dividend": 0.0,
+                    "Stock Price": 162.43031238374255
+                },
+                "9": {
+                    "Dividend": 0.674,
+                    "Stock Price": 161.44601149786087
+                },
+                "10": {
+                    "Dividend": 0.0,
+                    "Stock Price": 165.3803842717951
+                },
+                "11": {
+                    "Dividend": 0.0,
+                    "Stock Price": 172.68452377319335
+                },
+                "12": {
+                    "Dividend": 0.782,
+                    "Stock Price": 182.30273714932528
+                }
             },
-            "2": {
-                "Dividend Income": 0.13,
-                "Stock Value": 12.9234
+            "2021": {
+                "1": {
+                    "Dividend": 0.0,
+                    "Stock Price": 188.59538188733552
+                },
+                "2": {
+                    "Dividend": 0.0,
+                    "Stock Price": 194.3973597476357
+                },
+                "3": {
+                    "Dividend": 0.672,
+                    "Stock Price": 194.9760509988536
+                },
+                "4": {
+                    "Dividend": 0.0,
+                    "Stock Price": 205.52614266531808
+                },
+                "5": {
+                    "Dividend": 0.0,
+                    "Stock Price": 206.00408248901368
+                },
+                "6": {
+                    "Dividend": 0.675,
+                    "Stock Price": 210.69698957963422
+                },
+                "7": {
+                    "Dividend": 0.0,
+                    "Stock Price": 215.84061032249815
+                },
+                "8": {
+                    "Dividend": 0.0,
+                    "Stock Price": 219.99658896706322
+                },
+                "9": {
+                    "Dividend": 0.724,
+                    "Stock Price": 220.13551548549108
+                },
+                "10": {
+                    "Dividend": 0.0,
+                    "Stock Price": 221.2505398704892
+                },
+                "11": {
+                    "Dividend": 0.0,
+                    "Stock Price": 231.1419423421224
+                },
+                "12": {
+                    "Dividend": 0.859,
+                    "Stock Price": 228.84537783536044
+                }
             },
-            "3": {
-                "Dividend Income": 0.13,
-                "Stock Value": 13.0492
+            "2022": {
+                "1": {
+                    "Dividend": 0.0,
+                    "Stock Price": 222.4049499511719
+                },
+                "2": {
+                    "Dividend": 0.0,
+                    "Stock Price": 215.78440053839432
+                },
+                "3": {
+                    "Dividend": 0.708,
+                    "Stock Price": 213.67073324452275
+                },
+                "4": {
+                    "Dividend": 0.0,
+                    "Stock Price": 213.2644485473633
+                },
+                "5": {
+                    "Dividend": 0.0,
+                    "Stock Price": 195.44862656366257
+                },
+                "6": {
+                    "Dividend": 0.749,
+                    "Stock Price": 188.95240711030505
+                },
+                "7": {
+                    "Dividend": 0.0,
+                    "Stock Price": 189.7984161376953
+                },
+                "8": {
+                    "Dividend": 0.0,
+                    "Stock Price": 202.69790118673572
+                },
+                "9": {
+                    "Dividend": 0.796,
+                    "Stock Price": 187.89738246372767
+                },
+                "10": {
+                    "Dividend": 0.0,
+                    "Stock Price": 182.11353193010603
+                },
+                "11": {
+                    "Dividend": 0.0,
+                    "Stock Price": 191.49021984281995
+                },
+                "12": {
+                    "Dividend": 0.931,
+                    "Stock Price": 191.05106172107514
+                }
             },
-            "4": {
-                "Dividend Income": 0.13,
-                "Stock Value": 13.6641
+            "2023": {
+                "1": {
+                    "Dividend": 0.0,
+                    "Stock Price": 194.2098373413086
+                },
+                "2": {
+                    "Dividend": 0.0,
+                    "Stock Price": 200.9755048249897
+                },
+                "3": {
+                    "Dividend": 0.786,
+                    "Stock Price": 194.65404410984206
+                },
+                "4": {
+                    "Dividend": 0.0,
+                    "Stock Price": 201.17251024748148
+                },
+                "5": {
+                    "Dividend": 0.0,
+                    "Stock Price": 202.31244798140094
+                },
+                "6": {
+                    "Dividend": 0.827,
+                    "Stock Price": 212.7546641031901
+                },
+                "7": {
+                    "Dividend": 0.0,
+                    "Stock Price": 221.4062370300293
+                },
+                "8": {
+                    "Dividend": 0.0,
+                    "Stock Price": 218.85102578868037
+                },
+                "9": {
+                    "Dividend": 0.798,
+                    "Stock Price": 216.49741821289064
+                },
+                "10": {
+                    "Dividend": 0.0,
+                    "Stock Price": 209.18634310635653
+                },
+                "11": {
+                    "Dividend": 0.0,
+                    "Stock Price": 218.57635134742372
+                },
+                "12": {
+                    "Dividend": 1.002,
+                    "Stock Price": 231.6757499694824
+                }
             },
-            "5": {
-                "Dividend Income": 0.13,
-                "Stock Value": 14.1598
-            },
-            "6": {
-                "Dividend Income": 0.13,
-                "Stock Value": 14.7271
-            },
-            "7": {
-                "Dividend Income": 0.13,
-                "Stock Value": 15.0378
-            },
-            "8": {
-                "Dividend Income": 0.13,
-                "Stock Value": 15.6672
-            },
-            "9": {
-                "Dividend Income": 0.119,
-                "Stock Value": 14.0875
-            },
-            "10": {
-                "Dividend Income": 0.119,
-                "Stock Value": 13.8134
-            },
-            "11": {
-                "Dividend Income": 0.119,
-                "Stock Value": 13.9409
-            },
-            "12": {
-                "Dividend Income": 0.119,
-                "Stock Value": 13.0416
+            "2024": {
+                "1": {
+                    "Dividend": 0.0,
+                    "Stock Price": 237.29703122093565
+                },
+                "2": {
+                    "Dividend": 0.0,
+                    "Stock Price": 247.40854110717774
+                },
+                "3": {
+                    "Dividend": 0.911,
+                    "Stock Price": 255.58708724975585
+                },
+                "4": {
+                    "Dividend": 0.0,
+                    "Stock Price": 252.5954555164684
+                },
+                "5": {
+                    "Dividend": 0.0,
+                    "Stock Price": 258.71454481645065
+                },
+                "6": {
+                    "Dividend": 0.0,
+                    "Stock Price": 261.5633239746094
+                },
+                "7": {
+                    "Dividend": 0.0,
+                    "Stock Price": 0
+                },
+                "8": {
+                    "Dividend": 0.0,
+                    "Stock Price": 0
+                },
+                "9": {
+                    "Dividend": 0.0,
+                    "Stock Price": 0
+                },
+                "10": {
+                    "Dividend": 0.0,
+                    "Stock Price": 0
+                },
+                "11": {
+                    "Dividend": 0.0,
+                    "Stock Price": 0
+                },
+                "12": {
+                    "Dividend": 0.0,
+                    "Stock Price": 0
+                }
             }
         },
-        "2022": {
-            "1": {
-                "Dividend Income": 0.119,
-                "Stock Value": 12.4982
-            },
-            "2": {
-                "Dividend Income": 0.119,
-                "Stock Value": 11.9842
-            },
-            "3": {
-                "Dividend Income": 0.119,
-                "Stock Value": 11.5963
-            },
-            "4": {
-                "Dividend Income": 0.119,
-                "Stock Value": 11.8485
-            },
-            "5": {
-                "Dividend Income": 0.119,
-                "Stock Value": 11.3637
-            },
-            "6": {
-                "Dividend Income": 0.119,
-                "Stock Value": 11.0886
-            },
-            "7": {
-                "Dividend Income": 0.119,
-                "Stock Value": 10.3745
-            },
-            "8": {
-                "Dividend Income": 0.119,
-                "Stock Value": 11.4949
-            },
-            "9": {
-                "Dividend Income": 0.119,
-                "Stock Value": 10.6347
-            },
-            "10": {
-                "Dividend Income": 0.119,
-                "Stock Value": 10.0261
-            },
-            "11": {
-                "Dividend Income": 0.119,
-                "Stock Value": 10.6329
-            },
-            "12": {
-                "Dividend Income": 0.269,
-                "Stock Value": 10.9478
-            }
-        },
-        "2023": {
-            "1": {
-                "Dividend Income": 0.119,
-                "Stock Value": 11.4486
-            },
-            "2": {
-                "Dividend Income": 0.119,
-                "Stock Value": 12.0809
-            },
-            "3": {
-                "Dividend Income": 0.119,
-                "Stock Value": 11.2217
-            },
-            "4": {
-                "Dividend Income": 0.119,
-                "Stock Value": 11.4215
-            },
-            "5": {
-                "Dividend Income": 0.119,
-                "Stock Value": 11.4619
-            },
-            "6": {
-                "Dividend Income": 0.119,
-                "Stock Value": 12.1262
-            },
-            "7": {
-                "Dividend Income": 0.119,
-                "Stock Value": 13.0782
-            },
-            "8": {
-                "Dividend Income": 0.119,
-                "Stock Value": 13.1489
-            },
-            "9": {
-                "Dividend Income": 0.119,
-                "Stock Value": 12.8683
-            },
-            "10": {
-                "Dividend Income": 0.119,
-                "Stock Value": 11.7162
-            },
-            "11": {
-                "Dividend Income": 0.119,
-                "Stock Value": 12.8004
-            },
-            "12": {
-                "Dividend Income": 0.119,
-                "Stock Value": 12.9138
-            }
-        },
-        "2024": {
-            "1": {
-                "Dividend Income": 0.119,
-                "Stock Value": 13.1648
-            },
-            "2": {
-                "Dividend Income": 0.119,
-                "Stock Value": 13.6853
-            },
-            "3": {
-                "Dividend Income": 0.119,
-                "Stock Value": 14.2947
-            },
-            "4": {
-                "Dividend Income": 0.119,
-                "Stock Value": 14.1243
-            },
-            "5": {
-                "Dividend Income": 0.119,
-                "Stock Value": 14.2299
-            },
-            "6": {
-                "Dividend Income": 0.0,
-                "Stock Value": 14.4733
-            },
-            "7": {
-                "Dividend Income": 0.0,
-                "Stock Value": 0
-            },
-            "8": {
-                "Dividend Income": 0.0,
-                "Stock Value": 0
-            },
-            "9": {
-                "Dividend Income": 0.0,
-                "Stock Value": 0
-            },
-            "10": {
-                "Dividend Income": 0.0,
-                "Stock Value": 0
-            },
-            "11": {
-                "Dividend Income": 0.0,
-                "Stock Value": 0
-            },
-            "12": {
-                "Dividend Income": 0.0,
-                "Stock Value": 0
-            }
-        }
-    },
-    "VTI": {
-        "2020": {
-            "1": {
-                "Dividend Income": 0.0,
-                "Stock Value": 155.565
-            },
-            "2": {
-                "Dividend Income": 0.0,
-                "Stock Value": 155.8619
-            },
-            "3": {
-                "Dividend Income": 0.614,
-                "Stock Value": 124.8604
-            },
-            "4": {
-                "Dividend Income": 0.0,
-                "Stock Value": 129.5388
-            },
-            "5": {
-                "Dividend Income": 0.0,
-                "Stock Value": 138.1975
-            },
-            "6": {
-                "Dividend Income": 0.7,
-                "Stock Value": 148.0401
-            },
-            "7": {
-                "Dividend Income": 0.0,
-                "Stock Value": 153.287
-            },
-            "8": {
-                "Dividend Income": 0.0,
-                "Stock Value": 162.4303
-            },
-            "9": {
-                "Dividend Income": 0.674,
-                "Stock Value": 161.446
-            },
-            "10": {
-                "Dividend Income": 0.0,
-                "Stock Value": 165.3804
-            },
-            "11": {
-                "Dividend Income": 0.0,
-                "Stock Value": 172.6845
-            },
-            "12": {
-                "Dividend Income": 0.782,
-                "Stock Value": 182.3027
-            }
-        },
-        "2021": {
-            "1": {
-                "Dividend Income": 0.0,
-                "Stock Value": 188.5954
-            },
-            "2": {
-                "Dividend Income": 0.0,
-                "Stock Value": 194.3974
-            },
-            "3": {
-                "Dividend Income": 0.672,
-                "Stock Value": 194.9761
-            },
-            "4": {
-                "Dividend Income": 0.0,
-                "Stock Value": 205.5261
-            },
-            "5": {
-                "Dividend Income": 0.0,
-                "Stock Value": 206.0041
-            },
-            "6": {
-                "Dividend Income": 0.675,
-                "Stock Value": 210.697
-            },
-            "7": {
-                "Dividend Income": 0.0,
-                "Stock Value": 215.8406
-            },
-            "8": {
-                "Dividend Income": 0.0,
-                "Stock Value": 219.9966
-            },
-            "9": {
-                "Dividend Income": 0.724,
-                "Stock Value": 220.1355
-            },
-            "10": {
-                "Dividend Income": 0.0,
-                "Stock Value": 221.2505
-            },
-            "11": {
-                "Dividend Income": 0.0,
-                "Stock Value": 231.1419
-            },
-            "12": {
-                "Dividend Income": 0.859,
-                "Stock Value": 228.8454
-            }
-        },
-        "2022": {
-            "1": {
-                "Dividend Income": 0.0,
-                "Stock Value": 222.405
-            },
-            "2": {
-                "Dividend Income": 0.0,
-                "Stock Value": 215.7844
-            },
-            "3": {
-                "Dividend Income": 0.708,
-                "Stock Value": 213.6707
-            },
-            "4": {
-                "Dividend Income": 0.0,
-                "Stock Value": 213.2645
-            },
-            "5": {
-                "Dividend Income": 0.0,
-                "Stock Value": 195.4486
-            },
-            "6": {
-                "Dividend Income": 0.749,
-                "Stock Value": 188.9524
-            },
-            "7": {
-                "Dividend Income": 0.0,
-                "Stock Value": 189.7984
-            },
-            "8": {
-                "Dividend Income": 0.0,
-                "Stock Value": 202.6979
-            },
-            "9": {
-                "Dividend Income": 0.796,
-                "Stock Value": 187.8974
-            },
-            "10": {
-                "Dividend Income": 0.0,
-                "Stock Value": 182.1135
-            },
-            "11": {
-                "Dividend Income": 0.0,
-                "Stock Value": 191.4902
-            },
-            "12": {
-                "Dividend Income": 0.931,
-                "Stock Value": 191.0511
-            }
-        },
-        "2023": {
-            "1": {
-                "Dividend Income": 0.0,
-                "Stock Value": 194.2098
-            },
-            "2": {
-                "Dividend Income": 0.0,
-                "Stock Value": 200.9755
-            },
-            "3": {
-                "Dividend Income": 0.786,
-                "Stock Value": 194.654
-            },
-            "4": {
-                "Dividend Income": 0.0,
-                "Stock Value": 201.1725
-            },
-            "5": {
-                "Dividend Income": 0.0,
-                "Stock Value": 202.3124
-            },
-            "6": {
-                "Dividend Income": 0.827,
-                "Stock Value": 212.7547
-            },
-            "7": {
-                "Dividend Income": 0.0,
-                "Stock Value": 221.4062
-            },
-            "8": {
-                "Dividend Income": 0.0,
-                "Stock Value": 218.851
-            },
-            "9": {
-                "Dividend Income": 0.798,
-                "Stock Value": 216.4974
-            },
-            "10": {
-                "Dividend Income": 0.0,
-                "Stock Value": 209.1863
-            },
-            "11": {
-                "Dividend Income": 0.0,
-                "Stock Value": 218.5764
-            },
-            "12": {
-                "Dividend Income": 1.002,
-                "Stock Value": 231.6757
-            }
-        },
-        "2024": {
-            "1": {
-                "Dividend Income": 0.0,
-                "Stock Value": 5237.297
-            },
-            "2": {
-                "Dividend Income": 0.0,
-                "Stock Value": 247.4085
-            },
-            "3": {
-                "Dividend Income": 0.911,
-                "Stock Value": 255.5871
-            },
-            "4": {
-                "Dividend Income": 0.0,
-                "Stock Value": 252.5955
-            },
-            "5": {
-                "Dividend Income": 0.0,
-                "Stock Value": 258.7145
-            },
-            "6": {
-                "Dividend Income": 0.0,
-                "Stock Value": 261.3173
-            },
-            "7": {
-                "Dividend Income": 0.0,
-                "Stock Value": 0
-            },
-            "8": {
-                "Dividend Income": 0.0,
-                "Stock Value": 0
-            },
-            "9": {
-                "Dividend Income": 0.0,
-                "Stock Value": 0
-            },
-            "10": {
-                "Dividend Income": 0.0,
-                "Stock Value": 0
-            },
-            "11": {
-                "Dividend Income": 0.0,
-                "Stock Value": 0
-            },
-            "12": {
-                "Dividend Income": 0.0,
-                "Stock Value": 0
-            }
-        }
-    },
-    "SPY": {
-        "2020": {
-            "1": {
-                "Dividend Income": 0.0,
-                "Stock Value": 306.0838
-            },
-            "2": {
-                "Dividend Income": 0.0,
-                "Stock Value": 306.4563
-            },
-            "3": {
-                "Dividend Income": 1.406,
-                "Stock Value": 248.3682
-            },
-            "4": {
-                "Dividend Income": 0.0,
-                "Stock Value": 259.3287
-            },
-            "5": {
-                "Dividend Income": 0.0,
-                "Stock Value": 274.6243
-            },
-            "6": {
-                "Dividend Income": 1.366,
-                "Stock Value": 292.5076
-            },
-            "7": {
-                "Dividend Income": 0.0,
-                "Stock Value": 302.6365
-            },
-            "8": {
-                "Dividend Income": 0.0,
-                "Stock Value": 320.3733
-            },
-            "9": {
-                "Dividend Income": 1.339,
-                "Stock Value": 318.3419
-            },
-            "10": {
-                "Dividend Income": 0.0,
-                "Stock Value": 323.7741
-            },
-            "11": {
-                "Dividend Income": 0.0,
-                "Stock Value": 336.5368
-            },
-            "12": {
-                "Dividend Income": 1.58,
-                "Stock Value": 350.886
-            }
-        },
-        "2021": {
-            "1": {
-                "Dividend Income": 0.0,
-                "Stock Value": 360.6272
-            },
-            "2": {
-                "Dividend Income": 0.0,
-                "Stock Value": 369.4986
-            },
-            "3": {
-                "Dividend Income": 1.278,
-                "Stock Value": 372.6533
-            },
-            "4": {
-                "Dividend Income": 0.0,
-                "Stock Value": 395.0369
-            },
-            "5": {
-                "Dividend Income": 0.0,
-                "Stock Value": 397.9703
-            },
-            "6": {
-                "Dividend Income": 1.376,
-                "Stock Value": 405.2179
-            },
-            "7": {
-                "Dividend Income": 0.0,
-                "Stock Value": 417.6223
-            },
-            "8": {
-                "Dividend Income": 0.0,
-                "Stock Value": 426.6695
-            },
-            "9": {
-                "Dividend Income": 1.428,
-                "Stock Value": 426.3826
-            },
-            "10": {
-                "Dividend Income": 0.0,
-                "Stock Value": 428.2341
-            },
-            "11": {
-                "Dividend Income": 0.0,
-                "Stock Value": 448.4847
-            },
-            "12": {
-                "Dividend Income": 1.633,
-                "Stock Value": 449.8325
-            }
-        },
-        "2022": {
-            "1": {
-                "Dividend Income": 0.0,
-                "Stock Value": 440.4865
-            },
-            "2": {
-                "Dividend Income": 0.0,
-                "Stock Value": 427.6305
-            },
-            "3": {
-                "Dividend Income": 1.366,
-                "Stock Value": 423.9773
-            },
-            "4": {
-                "Dividend Income": 0.0,
-                "Stock Value": 424.3818
-            },
-            "5": {
-                "Dividend Income": 0.0,
-                "Stock Value": 390.9606
-            },
-            "6": {
-                "Dividend Income": 1.577,
-                "Stock Value": 377.9014
-            },
-            "7": {
-                "Dividend Income": 0.0,
-                "Stock Value": 379.6354
-            },
-            "8": {
-                "Dividend Income": 0.0,
-                "Stock Value": 404.1165
-            },
-            "9": {
-                "Dividend Income": 1.596,
-                "Stock Value": 374.8283
-            },
-            "10": {
-                "Dividend Income": 0.0,
-                "Stock Value": 363.1954
-            },
-            "11": {
-                "Dividend Income": 0.0,
-                "Stock Value": 382.3109
-            },
-            "12": {
-                "Dividend Income": 1.781,
-                "Stock Value": 382.4073
-            }
-        },
-        "2023": {
-            "1": {
-                "Dividend Income": 0.0,
-                "Stock Value": 387.5827
-            },
-            "2": {
-                "Dividend Income": 0.0,
-                "Stock Value": 399.7363
-            },
-            "3": {
-                "Dividend Income": 1.506,
-                "Stock Value": 389.5988
-            },
-            "4": {
-                "Dividend Income": 0.0,
-                "Stock Value": 405.0554
-            },
-            "5": {
-                "Dividend Income": 0.0,
-                "Stock Value": 407.973
-            },
-            "6": {
-                "Dividend Income": 1.638,
-                "Stock Value": 428.2555
-            },
-            "7": {
-                "Dividend Income": 0.0,
-                "Stock Value": 444.6825
-            },
-            "8": {
-                "Dividend Income": 0.0,
-                "Stock Value": 440.1964
-            },
-            "9": {
-                "Dividend Income": 1.583,
-                "Stock Value": 436.096
-            },
-            "10": {
-                "Dividend Income": 0.0,
-                "Stock Value": 422.6253
-            },
-            "11": {
-                "Dividend Income": 0.0,
-                "Stock Value": 442.0818
-            },
-            "12": {
-                "Dividend Income": 1.906,
-                "Stock Value": 465.0779
-            }
-        },
-        "2024": {
-            "1": {
-                "Dividend Income": 0.0,
-                "Stock Value": 477.3279
-            },
-            "2": {
-                "Dividend Income": 0.0,
-                "Stock Value": 498.4229
-            },
-            "3": {
-                "Dividend Income": 1.595,
-                "Stock Value": 514.9409
-            },
-            "4": {
-                "Dividend Income": 0.0,
-                "Stock Value": 509.5773
-            },
-            "5": {
-                "Dividend Income": 0.0,
-                "Stock Value": 522.4205
-            },
-            "6": {
-                "Dividend Income": 0.0,
-                "Stock Value": 529.7867
-            },
-            "7": {
-                "Dividend Income": 0.0,
-                "Stock Value": 0
-            },
-            "8": {
-                "Dividend Income": 0.0,
-                "Stock Value": 0
-            },
-            "9": {
-                "Dividend Income": 0.0,
-                "Stock Value": 0
-            },
-            "10": {
-                "Dividend Income": 0.0,
-                "Stock Value": 0
-            },
-            "11": {
-                "Dividend Income": 0.0,
-                "Stock Value": 0
-            },
-            "12": {
-                "Dividend Income": 0.0,
-                "Stock Value": 0
+        "SPY": {
+            "2020": {
+                "1": {
+                    "Dividend": 0.0,
+                    "Stock Price": 306.0838317871094
+                },
+                "2": {
+                    "Dividend": 0.0,
+                    "Stock Price": 306.45628276624177
+                },
+                "3": {
+                    "Dividend": 1.406,
+                    "Stock Price": 248.36818001487038
+                },
+                "4": {
+                    "Dividend": 0.0,
+                    "Stock Price": 259.3287411644345
+                },
+                "5": {
+                    "Dividend": 0.0,
+                    "Stock Price": 274.6242645263672
+                },
+                "6": {
+                    "Dividend": 1.366,
+                    "Stock Price": 292.5076280073686
+                },
+                "7": {
+                    "Dividend": 0.0,
+                    "Stock Price": 302.6365398060192
+                },
+                "8": {
+                    "Dividend": 0.0,
+                    "Stock Price": 320.3732386997768
+                },
+                "9": {
+                    "Dividend": 1.339,
+                    "Stock Price": 318.34193202427457
+                },
+                "10": {
+                    "Dividend": 0.0,
+                    "Stock Price": 323.77412830699575
+                },
+                "11": {
+                    "Dividend": 0.0,
+                    "Stock Price": 336.5368423461914
+                },
+                "12": {
+                    "Dividend": 1.58,
+                    "Stock Price": 350.8860029740767
+                }
+            },
+            "2021": {
+                "1": {
+                    "Dividend": 0.0,
+                    "Stock Price": 360.62717799136516
+                },
+                "2": {
+                    "Dividend": 0.0,
+                    "Stock Price": 369.49858816046464
+                },
+                "3": {
+                    "Dividend": 1.278,
+                    "Stock Price": 372.65332296620244
+                },
+                "4": {
+                    "Dividend": 0.0,
+                    "Stock Price": 395.0369248163132
+                },
+                "5": {
+                    "Dividend": 0.0,
+                    "Stock Price": 397.9702545166016
+                },
+                "6": {
+                    "Dividend": 1.376,
+                    "Stock Price": 405.2179024436257
+                },
+                "7": {
+                    "Dividend": 0.0,
+                    "Stock Price": 417.622311546689
+                },
+                "8": {
+                    "Dividend": 0.0,
+                    "Stock Price": 426.66952098499644
+                },
+                "9": {
+                    "Dividend": 1.428,
+                    "Stock Price": 426.38260323660717
+                },
+                "10": {
+                    "Dividend": 0.0,
+                    "Stock Price": 428.23405383882067
+                },
+                "11": {
+                    "Dividend": 0.0,
+                    "Stock Price": 448.4846903483073
+                },
+                "12": {
+                    "Dividend": 1.633,
+                    "Stock Price": 449.83245156028056
+                }
+            },
+            "2022": {
+                "1": {
+                    "Dividend": 0.0,
+                    "Stock Price": 440.4864837646484
+                },
+                "2": {
+                    "Dividend": 0.0,
+                    "Stock Price": 427.63051243832234
+                },
+                "3": {
+                    "Dividend": 1.366,
+                    "Stock Price": 423.9773108440897
+                },
+                "4": {
+                    "Dividend": 0.0,
+                    "Stock Price": 424.38177185058595
+                },
+                "5": {
+                    "Dividend": 0.0,
+                    "Stock Price": 390.96058582124255
+                },
+                "6": {
+                    "Dividend": 1.577,
+                    "Stock Price": 377.901370093936
+                },
+                "7": {
+                    "Dividend": 0.0,
+                    "Stock Price": 379.6354064941406
+                },
+                "8": {
+                    "Dividend": 0.0,
+                    "Stock Price": 404.1165532651155
+                },
+                "9": {
+                    "Dividend": 1.596,
+                    "Stock Price": 374.8283182779948
+                },
+                "10": {
+                    "Dividend": 0.0,
+                    "Stock Price": 363.19542003813245
+                },
+                "11": {
+                    "Dividend": 0.0,
+                    "Stock Price": 382.3109218052455
+                },
+                "12": {
+                    "Dividend": 1.781,
+                    "Stock Price": 382.4073006766183
+                }
+            },
+            "2023": {
+                "1": {
+                    "Dividend": 0.0,
+                    "Stock Price": 387.5827331542969
+                },
+                "2": {
+                    "Dividend": 0.0,
+                    "Stock Price": 399.73631045692844
+                },
+                "3": {
+                    "Dividend": 1.506,
+                    "Stock Price": 389.59880530315894
+                },
+                "4": {
+                    "Dividend": 0.0,
+                    "Stock Price": 405.0553910104852
+                },
+                "5": {
+                    "Dividend": 0.0,
+                    "Stock Price": 407.97299749200994
+                },
+                "6": {
+                    "Dividend": 1.638,
+                    "Stock Price": 428.2555367606027
+                },
+                "7": {
+                    "Dividend": 0.0,
+                    "Stock Price": 444.6825256347656
+                },
+                "8": {
+                    "Dividend": 0.0,
+                    "Stock Price": 440.1964071522588
+                },
+                "9": {
+                    "Dividend": 1.583,
+                    "Stock Price": 436.09596099853513
+                },
+                "10": {
+                    "Dividend": 0.0,
+                    "Stock Price": 422.6253398548473
+                },
+                "11": {
+                    "Dividend": 0.0,
+                    "Stock Price": 442.08181908017116
+                },
+                "12": {
+                    "Dividend": 1.906,
+                    "Stock Price": 465.07787933349607
+                }
+            },
+            "2024": {
+                "1": {
+                    "Dividend": 0.0,
+                    "Stock Price": 477.32787940615697
+                },
+                "2": {
+                    "Dividend": 0.0,
+                    "Stock Price": 498.42288360595705
+                },
+                "3": {
+                    "Dividend": 1.595,
+                    "Stock Price": 514.9408828735352
+                },
+                "4": {
+                    "Dividend": 0.0,
+                    "Stock Price": 509.5772705078125
+                },
+                "5": {
+                    "Dividend": 0.0,
+                    "Stock Price": 522.4204559326172
+                },
+                "6": {
+                    "Dividend": 0.0,
+                    "Stock Price": 530.2866617838541
+                },
+                "7": {
+                    "Dividend": 0.0,
+                    "Stock Price": 0
+                },
+                "8": {
+                    "Dividend": 0.0,
+                    "Stock Price": 0
+                },
+                "9": {
+                    "Dividend": 0.0,
+                    "Stock Price": 0
+                },
+                "10": {
+                    "Dividend": 0.0,
+                    "Stock Price": 0
+                },
+                "11": {
+                    "Dividend": 0.0,
+                    "Stock Price": 0
+                },
+                "12": {
+                    "Dividend": 0.0,
+                    "Stock Price": 0
+                }
             }
         }
     }

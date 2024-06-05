@@ -2,35 +2,34 @@ import json
 
 def calculate_portfolio_value(data, shares_data, adjustments_data):
     portfolio_value = {}
-    for stock_info in shares_data:
-        stock = stock_info["Stock"]
-        shares = stock_info["Shares"]
-        if stock in data:
-            portfolio_value[stock] = {}
-            for year, months_data in data[stock].items():
-                portfolio_value[stock][year] = {}
+    for portfolio_name, portfolio_stocks in data.items():
+        portfolio_value[portfolio_name] = {}
+        for stock, years_data in portfolio_stocks["Stocks"].items():
+            portfolio_value[portfolio_name][stock] = {}
+            for year, months_data in years_data.items():
+                portfolio_value[portfolio_name][stock][year] = {}
                 for month, values in sorted(months_data.items(), key=lambda x: int(x[0])):
                     dividend = values.get("Dividend", 0)
                     price = values.get("Stock Price", 0)
 
                     # Check for adjustments and apply them if present
-                    if stock in adjustments_data:
-                        if year in adjustments_data[stock]:
-                            if month in adjustments_data[stock][year]:
-                                dividend = adjustments_data[stock][year][month].get("Dividend", dividend)
-                                price = adjustments_data[stock][year][month].get("Stock Price", price)
+                    ##if adjustments_data.get(portfolio_name, {}).get(stock, {}).get(year, {}).get(month):
+                    if adjustments_data.get(portfolio_name, {}).get("Stocks", {}).get(stock, {}).get(year, {}).get(month):
+                        ##adjustment = adjustments_data[portfolio_name][stock][year][month]
+                        adjustment = adjustments_data.get(portfolio_name, {}).get("Stocks", {}).get(stock, {}).get(year, {}).get(month)
+                        dividend = adjustment.get("Dividend", dividend)
+                        price = adjustment.get("Stock Price", price)
 
-                    dividend_income = shares * dividend
-                    stock_value = shares * price
-                    portfolio_value[stock][year][month] = {
-                        "Dividend Income": round(dividend_income, 4),
-                        "Stock Value": round(stock_value, 4)
+                    portfolio_value[portfolio_name][stock][year][month] = {
+                        "Dividend": dividend,
+                        "Stock Price": price
                     }
+
     return portfolio_value
 
 def main():
     input_file = 'dividend_stock_data.json'
-    shares_file = 'stocks.json'
+    shares_file = 'portfolio_stocks.json'
     adjustments_file = 'stock_data_adjustments.json'
     portfolio_value_file = 'portfolio_value.json'
 

@@ -9,10 +9,10 @@ def export_dividend_stock_data(json_file, json_output_file):
         data = json.load(f)
     
     # Get portfolio name
-    portfolio_name = data.get('Portfolio Name')
+    portfolio_name = list(data.keys())[0]
 
     # Get stock data
-    stocks_data = data.get('Stocks', [])
+    stocks_data = data.get(portfolio_name, {}).get('Stocks', [])
     
     dividend_stock_data = {}
     
@@ -52,10 +52,11 @@ def export_dividend_stock_data(json_file, json_output_file):
         except Exception as e:
             print(f"Error fetching data for stock {stock}: {e}")
     
-    # Wrap the result with the portfolio name
+    # Wrap the result with the portfolio name and stocks
     output_data = {
-        "Portfolio Name": portfolio_name,
-        "Data": dividend_stock_data
+        portfolio_name: {
+            "Stocks": dividend_stock_data
+        }
     }
     
     # Export data to JSON file
