@@ -5,31 +5,31 @@
                 "2020": {
                     "1": {
                         "Dividend": 0.13,
-                        "Stock Price": 12.577540942600795
+                        "Stock Price": 12.57754035223098
                     },
                     "2": {
                         "Dividend": 0.13,
-                        "Stock Price": 12.511583077280145
+                        "Stock Price": 12.51158292669999
                     },
                     "3": {
                         "Dividend": 0.13,
-                        "Stock Price": 9.497751517729325
+                        "Stock Price": 9.497751604426991
                     },
                     "4": {
                         "Dividend": 0.13,
-                        "Stock Price": 8.966304642813546
+                        "Stock Price": 8.966304461161295
                     },
                     "5": {
                         "Dividend": 0.13,
-                        "Stock Price": 9.643408727645873
+                        "Stock Price": 9.6434091091156
                     },
                     "6": {
                         "Dividend": 0.13,
-                        "Stock Price": 10.520112081007523
+                        "Stock Price": 10.520112601193516
                     },
                     "7": {
                         "Dividend": 0.13,
-                        "Stock Price": 10.60601212761619
+                        "Stock Price": 10.606012431058017
                     },
                     "8": {
                         "Dividend": 0.13,
@@ -37,57 +37,57 @@
                     },
                     "9": {
                         "Dividend": 0.13,
-                        "Stock Price": 11.172965503874279
+                        "Stock Price": 11.172964958917527
                     },
                     "10": {
                         "Dividend": 0.13,
-                        "Stock Price": 11.451901912689209
+                        "Stock Price": 11.45190126245672
                     },
                     "11": {
                         "Dividend": 0.13,
-                        "Stock Price": 11.906722021102905
+                        "Stock Price": 11.906721067428588
                     },
                     "12": {
                         "Dividend": 0.13,
-                        "Stock Price": 12.614972244609486
+                        "Stock Price": 12.614972287958318
                     }
                 },
                 "2021": {
                     "1": {
                         "Dividend": 0.13,
-                        "Stock Price": 12.805470717580695
+                        "Stock Price": 12.805470165453459
                     },
                     "2": {
                         "Dividend": 0.13,
-                        "Stock Price": 12.9233701103612
+                        "Stock Price": 12.923370009974429
                     },
                     "3": {
                         "Dividend": 0.13,
-                        "Stock Price": 13.049247161201809
+                        "Stock Price": 13.049247368522312
                     },
                     "4": {
                         "Dividend": 0.13,
-                        "Stock Price": 13.664055460975284
+                        "Stock Price": 13.664056005932036
                     },
                     "5": {
                         "Dividend": 0.13,
-                        "Stock Price": 14.159770298004151
+                        "Stock Price": 14.159769773483276
                     },
                     "6": {
                         "Dividend": 0.13,
-                        "Stock Price": 14.727139082821934
+                        "Stock Price": 14.727138822728937
                     },
                     "7": {
                         "Dividend": 0.13,
-                        "Stock Price": 15.037842932201567
+                        "Stock Price": 15.037844249180385
                     },
                     "8": {
                         "Dividend": 0.13,
-                        "Stock Price": 15.667173125527121
+                        "Stock Price": 15.667173559015447
                     },
                     "9": {
                         "Dividend": 0.119,
-                        "Stock Price": 14.08751119886126
+                        "Stock Price": 14.087510336013068
                     },
                     "10": {
                         "Dividend": 0.119,
@@ -95,37 +95,37 @@
                     },
                     "11": {
                         "Dividend": 0.119,
-                        "Stock Price": 13.940853255135673
+                        "Stock Price": 13.940853663853236
                     },
                     "12": {
                         "Dividend": 0.119,
-                        "Stock Price": 13.041592251170766
+                        "Stock Price": 13.041592077775435
                     }
                 },
                 "2022": {
                     "1": {
                         "Dividend": 0.119,
-                        "Stock Price": 12.498227882385255
+                        "Stock Price": 12.498228168487548
                     },
                     "2": {
                         "Dividend": 0.119,
-                        "Stock Price": 11.984162932948061
+                        "Stock Price": 11.984163284301758
                     },
                     "3": {
                         "Dividend": 0.119,
-                        "Stock Price": 11.596313393634299
+                        "Stock Price": 11.5963134765625
                     },
                     "4": {
                         "Dividend": 0.119,
-                        "Stock Price": 11.848458623886108
+                        "Stock Price": 11.848459148406983
                     },
                     "5": {
                         "Dividend": 0.119,
-                        "Stock Price": 11.363729931059337
+                        "Stock Price": 11.363730158124651
                     },
                     "6": {
                         "Dividend": 0.119,
-                        "Stock Price": 11.08860833304269
+                        "Stock Price": 11.088608560108003
                     },
                     "7": {
                         "Dividend": 0.119,
@@ -133,49 +133,49 @@
                     },
                     "8": {
                         "Dividend": 0.119,
-                        "Stock Price": 11.494903066883916
+                        "Stock Price": 11.494903564453125
                     },
                     "9": {
                         "Dividend": 0.119,
-                        "Stock Price": 10.634654499235607
+                        "Stock Price": 10.634654680887857
                     },
                     "10": {
                         "Dividend": 0.119,
-                        "Stock Price": 10.02611001332601
+                        "Stock Price": 10.026110058739071
                     },
                     "11": {
                         "Dividend": 0.119,
-                        "Stock Price": 10.632943743751163
+                        "Stock Price": 10.632944016229539
                     },
                     "12": {
                         "Dividend": 0.269,
-                        "Stock Price": 10.947834832327706
+                        "Stock Price": 10.947835150219145
                     }
                 },
                 "2023": {
                     "1": {
                         "Dividend": 0.119,
-                        "Stock Price": 11.448599052429199
+                        "Stock Price": 11.448599481582642
                     },
                     "2": {
                         "Dividend": 0.119,
-                        "Stock Price": 12.080903404637388
+                        "Stock Price": 12.080903203863846
                     },
                     "3": {
                         "Dividend": 0.119,
-                        "Stock Price": 11.221695070681365
+                        "Stock Price": 11.22169478043266
                     },
                     "4": {
                         "Dividend": 0.119,
-                        "Stock Price": 11.421469136288291
+                        "Stock Price": 11.421469035901522
                     },
                     "5": {
                         "Dividend": 0.119,
-                        "Stock Price": 11.461936300451105
+                        "Stock Price": 11.461936257102273
                     },
                     "6": {
                         "Dividend": 0.119,
-                        "Stock Price": 12.126239776611328
+                        "Stock Price": 12.12623964037214
                     },
                     "7": {
                         "Dividend": 0.119,
@@ -183,41 +183,41 @@
                     },
                     "8": {
                         "Dividend": 0.119,
-                        "Stock Price": 13.148896880771803
+                        "Stock Price": 13.148896839307701
                     },
                     "9": {
                         "Dividend": 0.119,
-                        "Stock Price": 12.868331336975098
+                        "Stock Price": 12.86833152770996
                     },
                     "10": {
                         "Dividend": 0.119,
-                        "Stock Price": 11.716158780184658
+                        "Stock Price": 11.71615930037065
                     },
                     "11": {
                         "Dividend": 0.119,
-                        "Stock Price": 12.800392060052781
+                        "Stock Price": 12.800392105465843
                     },
                     "12": {
                         "Dividend": 0.119,
-                        "Stock Price": 12.91375799179077
+                        "Stock Price": 12.913758134841919
                     }
                 },
                 "2024": {
                     "1": {
                         "Dividend": 0.119,
-                        "Stock Price": 13.16477530343192
+                        "Stock Price": 13.164775348844982
                     },
                     "2": {
                         "Dividend": 0.119,
-                        "Stock Price": 13.685339307785034
+                        "Stock Price": 13.685339164733886
                     },
                     "3": {
                         "Dividend": 0.119,
-                        "Stock Price": 14.294656372070312
+                        "Stock Price": 14.29465627670288
                     },
                     "4": {
                         "Dividend": 0.119,
-                        "Stock Price": 14.124295798215
+                        "Stock Price": 14.124295841563832
                     },
                     "5": {
                         "Dividend": 0.119,
@@ -225,7 +225,7 @@
                     },
                     "6": {
                         "Dividend": 0.0,
-                        "Stock Price": 14.473333040873209
+                        "Stock Price": 14.478274822235107
                     },
                     "7": {
                         "Dividend": 0.0,
@@ -257,15 +257,15 @@
                 "2020": {
                     "1": {
                         "Dividend": 0.0,
-                        "Stock Price": 155.56498064313615
+                        "Stock Price": 155.56498209635416
                     },
                     "2": {
                         "Dividend": 0.0,
-                        "Stock Price": 155.8618830630654
+                        "Stock Price": 155.86187904759458
                     },
                     "3": {
                         "Dividend": 0.614,
-                        "Stock Price": 124.8604410344904
+                        "Stock Price": 124.86044242165305
                     },
                     "4": {
                         "Dividend": 0.0,
@@ -273,7 +273,7 @@
                     },
                     "5": {
                         "Dividend": 0.0,
-                        "Stock Price": 138.19750366210937
+                        "Stock Price": 138.19750289916993
                     },
                     "6": {
                         "Dividend": 0.7,
@@ -281,27 +281,27 @@
                     },
                     "7": {
                         "Dividend": 0.0,
-                        "Stock Price": 153.28703793612394
+                        "Stock Price": 153.28704556551847
                     },
                     "8": {
                         "Dividend": 0.0,
-                        "Stock Price": 162.43031238374255
+                        "Stock Price": 162.43031311035156
                     },
                     "9": {
                         "Dividend": 0.674,
-                        "Stock Price": 161.44601149786087
+                        "Stock Price": 161.44601222446985
                     },
                     "10": {
                         "Dividend": 0.0,
-                        "Stock Price": 165.3803842717951
+                        "Stock Price": 165.3803808038885
                     },
                     "11": {
                         "Dividend": 0.0,
-                        "Stock Price": 172.68452377319335
+                        "Stock Price": 172.68452987670898
                     },
                     "12": {
                         "Dividend": 0.782,
-                        "Stock Price": 182.30273714932528
+                        "Stock Price": 182.3027378429066
                     }
                 },
                 "2021": {
@@ -311,139 +311,139 @@
                     },
                     "2": {
                         "Dividend": 0.0,
-                        "Stock Price": 194.3973597476357
+                        "Stock Price": 194.39735653525904
                     },
                     "3": {
                         "Dividend": 0.672,
-                        "Stock Price": 194.9760509988536
+                        "Stock Price": 194.97605962338656
                     },
                     "4": {
                         "Dividend": 0.0,
-                        "Stock Price": 205.52614266531808
+                        "Stock Price": 205.5261433919271
                     },
                     "5": {
                         "Dividend": 0.0,
-                        "Stock Price": 206.00408248901368
+                        "Stock Price": 206.00408859252929
                     },
                     "6": {
                         "Dividend": 0.675,
-                        "Stock Price": 210.69698957963422
+                        "Stock Price": 210.6969881924716
                     },
                     "7": {
                         "Dividend": 0.0,
-                        "Stock Price": 215.84061032249815
+                        "Stock Price": 215.84060668945312
                     },
                     "8": {
                         "Dividend": 0.0,
-                        "Stock Price": 219.99658896706322
+                        "Stock Price": 219.99658411199397
                     },
                     "9": {
                         "Dividend": 0.724,
-                        "Stock Price": 220.13551548549108
+                        "Stock Price": 220.1355220249721
                     },
                     "10": {
                         "Dividend": 0.0,
-                        "Stock Price": 221.2505398704892
+                        "Stock Price": 221.25054205031623
                     },
                     "11": {
                         "Dividend": 0.0,
-                        "Stock Price": 231.1419423421224
+                        "Stock Price": 231.14194670177642
                     },
                     "12": {
                         "Dividend": 0.859,
-                        "Stock Price": 228.84537783536044
+                        "Stock Price": 228.845383384011
                     }
                 },
                 "2022": {
                     "1": {
                         "Dividend": 0.0,
-                        "Stock Price": 222.4049499511719
+                        "Stock Price": 222.40495681762695
                     },
                     "2": {
                         "Dividend": 0.0,
-                        "Stock Price": 215.78440053839432
+                        "Stock Price": 215.78439973530016
                     },
                     "3": {
                         "Dividend": 0.708,
-                        "Stock Price": 213.67073324452275
+                        "Stock Price": 213.6707292639691
                     },
                     "4": {
                         "Dividend": 0.0,
-                        "Stock Price": 213.2644485473633
+                        "Stock Price": 213.2644515991211
                     },
                     "5": {
                         "Dividend": 0.0,
-                        "Stock Price": 195.44862656366257
+                        "Stock Price": 195.44862365722656
                     },
                     "6": {
                         "Dividend": 0.749,
-                        "Stock Price": 188.95240711030505
+                        "Stock Price": 188.95241219656808
                     },
                     "7": {
                         "Dividend": 0.0,
-                        "Stock Price": 189.7984161376953
+                        "Stock Price": 189.79840850830078
                     },
                     "8": {
                         "Dividend": 0.0,
-                        "Stock Price": 202.69790118673572
+                        "Stock Price": 202.69790052331012
                     },
                     "9": {
                         "Dividend": 0.796,
-                        "Stock Price": 187.89738246372767
+                        "Stock Price": 187.89738173711868
                     },
                     "10": {
                         "Dividend": 0.0,
-                        "Stock Price": 182.11353193010603
+                        "Stock Price": 182.11353047688803
                     },
                     "11": {
                         "Dividend": 0.0,
-                        "Stock Price": 191.49021984281995
+                        "Stock Price": 191.49021911621094
                     },
                     "12": {
                         "Dividend": 0.931,
-                        "Stock Price": 191.05106172107514
+                        "Stock Price": 191.05106317429315
                     }
                 },
                 "2023": {
                     "1": {
                         "Dividend": 0.0,
-                        "Stock Price": 194.2098373413086
+                        "Stock Price": 194.2098419189453
                     },
                     "2": {
                         "Dividend": 0.0,
-                        "Stock Price": 200.9755048249897
+                        "Stock Price": 200.97550643117805
                     },
                     "3": {
                         "Dividend": 0.786,
-                        "Stock Price": 194.65404410984206
+                        "Stock Price": 194.65404610011888
                     },
                     "4": {
                         "Dividend": 0.0,
-                        "Stock Price": 201.17251024748148
+                        "Stock Price": 201.17251105057565
                     },
                     "5": {
                         "Dividend": 0.0,
-                        "Stock Price": 202.31244798140094
+                        "Stock Price": 202.3124472878196
                     },
                     "6": {
                         "Dividend": 0.827,
-                        "Stock Price": 212.7546641031901
+                        "Stock Price": 212.7546633765811
                     },
                     "7": {
                         "Dividend": 0.0,
-                        "Stock Price": 221.4062370300293
+                        "Stock Price": 221.40623321533204
                     },
                     "8": {
                         "Dividend": 0.0,
-                        "Stock Price": 218.85102578868037
+                        "Stock Price": 218.8510224715523
                     },
                     "9": {
                         "Dividend": 0.798,
-                        "Stock Price": 216.49741821289064
+                        "Stock Price": 216.49741744995117
                     },
                     "10": {
                         "Dividend": 0.0,
-                        "Stock Price": 209.18634310635653
+                        "Stock Price": 209.18634726784447
                     },
                     "11": {
                         "Dividend": 0.0,
@@ -451,7 +451,7 @@
                     },
                     "12": {
                         "Dividend": 1.002,
-                        "Stock Price": 231.6757499694824
+                        "Stock Price": 231.6757469177246
                     }
                 },
                 "2024": {
@@ -477,7 +477,7 @@
                     },
                     "6": {
                         "Dividend": 0.0,
-                        "Stock Price": 261.5633239746094
+                        "Stock Price": 262.09749603271484
                     },
                     "7": {
                         "Dividend": 0.0,
@@ -509,81 +509,81 @@
                 "2020": {
                     "1": {
                         "Dividend": 0.0,
-                        "Stock Price": 306.0838317871094
+                        "Stock Price": 306.0838361467634
                     },
                     "2": {
                         "Dividend": 0.0,
-                        "Stock Price": 306.45628276624177
+                        "Stock Price": 306.4562875848067
                     },
                     "3": {
                         "Dividend": 1.406,
-                        "Stock Price": 248.36818001487038
+                        "Stock Price": 248.36818140203303
                     },
                     "4": {
                         "Dividend": 0.0,
-                        "Stock Price": 259.3287411644345
+                        "Stock Price": 259.32872081938245
                     },
                     "5": {
                         "Dividend": 0.0,
-                        "Stock Price": 274.6242645263672
+                        "Stock Price": 274.62425231933594
                     },
                     "6": {
                         "Dividend": 1.366,
-                        "Stock Price": 292.5076280073686
+                        "Stock Price": 292.5076335560192
                     },
                     "7": {
                         "Dividend": 0.0,
-                        "Stock Price": 302.6365398060192
+                        "Stock Price": 302.6365370316939
                     },
                     "8": {
                         "Dividend": 0.0,
-                        "Stock Price": 320.3732386997768
+                        "Stock Price": 320.3732721237909
                     },
                     "9": {
                         "Dividend": 1.339,
-                        "Stock Price": 318.34193202427457
+                        "Stock Price": 318.34195236932663
                     },
                     "10": {
                         "Dividend": 0.0,
-                        "Stock Price": 323.77412830699575
+                        "Stock Price": 323.77413524280894
                     },
                     "11": {
                         "Dividend": 0.0,
-                        "Stock Price": 336.5368423461914
+                        "Stock Price": 336.5368591308594
                     },
                     "12": {
                         "Dividend": 1.58,
-                        "Stock Price": 350.8860029740767
+                        "Stock Price": 350.8859974254261
                     }
                 },
                 "2021": {
                     "1": {
                         "Dividend": 0.0,
-                        "Stock Price": 360.62717799136516
+                        "Stock Price": 360.6271828099301
                     },
                     "2": {
                         "Dividend": 0.0,
-                        "Stock Price": 369.49858816046464
+                        "Stock Price": 369.49858494808797
                     },
                     "3": {
                         "Dividend": 1.278,
-                        "Stock Price": 372.65332296620244
+                        "Stock Price": 372.6533282736073
                     },
                     "4": {
                         "Dividend": 0.0,
-                        "Stock Price": 395.0369248163132
+                        "Stock Price": 395.0369335356213
                     },
                     "5": {
                         "Dividend": 0.0,
-                        "Stock Price": 397.9702545166016
+                        "Stock Price": 397.97024993896486
                     },
                     "6": {
                         "Dividend": 1.376,
-                        "Stock Price": 405.2179024436257
+                        "Stock Price": 405.2178927334872
                     },
                     "7": {
                         "Dividend": 0.0,
-                        "Stock Price": 417.622311546689
+                        "Stock Price": 417.62230137416293
                     },
                     "8": {
                         "Dividend": 0.0,
@@ -591,49 +591,49 @@
                     },
                     "9": {
                         "Dividend": 1.428,
-                        "Stock Price": 426.38260323660717
+                        "Stock Price": 426.3826119559152
                     },
                     "10": {
                         "Dividend": 0.0,
-                        "Stock Price": 428.23405383882067
+                        "Stock Price": 428.2340552920387
                     },
                     "11": {
                         "Dividend": 0.0,
-                        "Stock Price": 448.4846903483073
+                        "Stock Price": 448.4846976143973
                     },
                     "12": {
                         "Dividend": 1.633,
-                        "Stock Price": 449.83245156028056
+                        "Stock Price": 449.8324571089311
                     }
                 },
                 "2022": {
                     "1": {
                         "Dividend": 0.0,
-                        "Stock Price": 440.4864837646484
+                        "Stock Price": 440.4864761352539
                     },
                     "2": {
                         "Dividend": 0.0,
-                        "Stock Price": 427.63051243832234
+                        "Stock Price": 427.6305140445107
                     },
                     "3": {
                         "Dividend": 1.366,
-                        "Stock Price": 423.9773108440897
+                        "Stock Price": 423.9773134977921
                     },
                     "4": {
                         "Dividend": 0.0,
-                        "Stock Price": 424.38177185058595
+                        "Stock Price": 424.381770324707
                     },
                     "5": {
                         "Dividend": 0.0,
-                        "Stock Price": 390.96058582124255
+                        "Stock Price": 390.9605930873326
                     },
                     "6": {
                         "Dividend": 1.577,
-                        "Stock Price": 377.901370093936
+                        "Stock Price": 377.901375906808
                     },
                     "7": {
                         "Dividend": 0.0,
-                        "Stock Price": 379.6354064941406
+                        "Stock Price": 379.6354019165039
                     },
                     "8": {
                         "Dividend": 0.0,
@@ -641,15 +641,15 @@
                     },
                     "9": {
                         "Dividend": 1.596,
-                        "Stock Price": 374.8283182779948
+                        "Stock Price": 374.8283153715588
                     },
                     "10": {
                         "Dividend": 0.0,
-                        "Stock Price": 363.19542003813245
+                        "Stock Price": 363.1954098656064
                     },
                     "11": {
                         "Dividend": 0.0,
-                        "Stock Price": 382.3109218052455
+                        "Stock Price": 382.31092035202755
                     },
                     "12": {
                         "Dividend": 1.781,
@@ -659,39 +659,39 @@
                 "2023": {
                     "1": {
                         "Dividend": 0.0,
-                        "Stock Price": 387.5827331542969
+                        "Stock Price": 387.58272857666014
                     },
                     "2": {
                         "Dividend": 0.0,
-                        "Stock Price": 399.73631045692844
+                        "Stock Price": 399.73630885074016
                     },
                     "3": {
                         "Dividend": 1.506,
-                        "Stock Price": 389.59880530315894
+                        "Stock Price": 389.59880795686144
                     },
                     "4": {
                         "Dividend": 0.0,
-                        "Stock Price": 405.0553910104852
+                        "Stock Price": 405.05539261667354
                     },
                     "5": {
                         "Dividend": 0.0,
-                        "Stock Price": 407.97299749200994
+                        "Stock Price": 407.9729961048473
                     },
                     "6": {
                         "Dividend": 1.638,
-                        "Stock Price": 428.2555367606027
+                        "Stock Price": 428.2555440266927
                     },
                     "7": {
                         "Dividend": 0.0,
-                        "Stock Price": 444.6825256347656
+                        "Stock Price": 444.6825225830078
                     },
                     "8": {
                         "Dividend": 0.0,
-                        "Stock Price": 440.1964071522588
+                        "Stock Price": 440.19640847911006
                     },
                     "9": {
                         "Dividend": 1.583,
-                        "Stock Price": 436.09596099853513
+                        "Stock Price": 436.0959671020508
                     },
                     "10": {
                         "Dividend": 0.0,
@@ -729,7 +729,7 @@
                     },
                     "6": {
                         "Dividend": 0.0,
-                        "Stock Price": 530.2866617838541
+                        "Stock Price": 531.4324951171875
                     },
                     "7": {
                         "Dividend": 0.0,

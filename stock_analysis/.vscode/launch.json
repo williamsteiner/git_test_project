@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Run Script",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",         // This uses the currently open file
+            "args": [],                   // Add any arguments here
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/stock_analysis", // This sets the working directory to the root of the workspace
+            "env": {},                    // Add any environment variables if needed
+            "justMyCode": true
+        },
+        {
+            "name": "Python: Run Specific Script",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/path/to/your/script.py",  // Path to your script
+            "args": [],                                               // Add any arguments here
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/stock_analysis",   // Specific working directory
+            "env": {},                                                // Add any environment variables if needed
+            "justMyCode": true
+        }
+    ]
+}
