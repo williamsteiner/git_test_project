@@ -10,9 +10,10 @@ def run_script(script_name):
 
 def main():
     scripts = [
-        'fetch_dividends_2a_and_price.py',
+        'fetch_dividends_and_price_3.py',
         'fetch_dividends_2a_growth_rate.py',
-        'fetch_dividends_2a_portfolio_value.py'
+        'fetch_dividends_2a_portfolio_value.py',
+        'portfolio_growth_chart_3.py'
     ]
     
     for script in scripts:

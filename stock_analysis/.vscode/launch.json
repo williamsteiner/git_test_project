@@ -3,7 +3,7 @@
     "configurations": [
         {
             "name": "Python: Run Script",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${file}",         // This uses the currently open file
             "args": [],                   // Add any arguments here
@@ -14,7 +14,7 @@
         },
         {
             "name": "Python: Run Specific Script",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/path/to/your/script.py",  // Path to your script
             "args": [],                                               // Add any arguments here
