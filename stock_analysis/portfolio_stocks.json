@@ -3,17 +3,17 @@
         "Stocks": [
             {
                 "Stock": "PTY",
-                "Shares": 1,
+                "Shares": 1000,
                 "Purchase Price": 1.00
             },
             {
                 "Stock": "VTI",
-                "Shares": 1,
+                "Shares": 1000,
                 "Purchase Price": 1.00
             },
             {
                 "Stock": "SPY",
-                "Shares": 1,
+                "Shares": 1000,
                 "Purchase Price": 1.00
             }
         ]
