@@ -73,15 +73,34 @@ def plot_combined_data(json_file):
     combined_values = []
     for year, year_data in combined_data.items():
         for month, month_data in year_data.items():
-            months.append(f"{year}-{month}")
-            combined_values.append(month_data['Dividend'] + month_data['Total Value'])
+            value = month_data['Dividend'] + month_data['Total Value']
+            if value != 0:
+                months.append(f"{year}-{month}")
+                combined_values.append(value)
     
-    plt.plot(months, combined_values, label='Combined Data')
-    plt.xlabel('Year-Month')
-    plt.ylabel('Combined Value')
-    plt.title('Combined Dividend and Total Value by Year/Month')
-    plt.xticks(rotation=45, ha='right')
-    plt.legend()
+    # Calculate percentage growth year over year
+    growth_rates = [100 * ((combined_values[i] - combined_values[i-12]) / combined_values[i-12]) for i in range(12, len(combined_values))]
+    total_growth = (combined_values[-1] - combined_values[0]) / combined_values[0] * 100
+    
+    # Plotting
+    fig, ax = plt.subplots()
+    ax.plot(months, combined_values, label='Combined Data')
+    
+    # Add dollar amounts for each new year
+    last_year = None
+    for i, year_month in enumerate(months):
+        year = year_month.split('-')[0]
+        if year != last_year:
+            ax.text(i, combined_values[i], f"${combined_values[i]:,.0f}", ha='right', va='bottom', rotation=45)
+            last_year = year
+    
+    ax.set_xlabel('Year-Month')
+    ax.set_ylabel('Combined Value')
+    ax.set_title(f'Combined Dividend and Total Value by Year/Month\nTotal Growth: {total_growth:.2f}%')
+    ax.set_xticks(months[::12])
+    ax.tick_params(axis='x', rotation=45)
+    ax.legend()
+    plt.tight_layout()
     plt.show()
 
 # Example usage
